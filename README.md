@@ -1,5 +1,6 @@
-## Hi there 👋
+My name is Brad McNeur. I'm a developer looking for full time work. I have a bachelor's in programming from CPIT and I've already put it to work migrating an entire, years old database using SQL. 
 
+I've recently refreshed my skills with the courses on boot.dev, so I'm more than ready to get back into the thick of it.
 <!--
 **B-Rad-MC/B-Rad-MC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
